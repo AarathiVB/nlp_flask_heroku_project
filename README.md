@@ -1,4 +1,4 @@
-# Spam-Ham classification using Naive Bayes Classifier
+# Spam-Ham Classification using Naive Bayes Classifier
 
 ## Developed using sklearn
 naive_bayes --> MultinomialNB
